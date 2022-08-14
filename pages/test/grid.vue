@@ -80,7 +80,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .bg-mediumseagreen {
     background-color: mediumseagreen;
   }
