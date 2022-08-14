@@ -1,8 +1,3 @@
 <template>
-  <NuxtPage />
+  <div></div>
 </template>
-
-<style>
-  @import "./modules/style";
-  @import "@/modules/grid";
-</style>
