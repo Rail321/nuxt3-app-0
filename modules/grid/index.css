@@ -1,0 +1,17 @@
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.col, .col-1, .col-5 {
+  min-width: 0;
+}
+.col {
+  flex-grow: 1;
+  width: auto;
+}
+.col-1 {
+  width: 16.66%;
+}
+.col-5 {
+  width: 83.34%;
+}
